@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1151d01-9e2b-41dc-984f-44ce26ca3f88": {
+      "ProjectGuid": "f1151d01-9e2b-41dc-984f-44ce26ca3f88",
+      "DisplayName": "PokemonApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
